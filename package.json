@@ -1,0 +1,20 @@
+{
+  "name": "wifi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "chalk": "^4.1.2",
+    "cli-spinners": "^2.7.0",
+    "fast-speedtest-api": "^0.3.2",
+    "node-wifi": "^2.0.16",
+    "ora": "^5.4.1"
+  }
+}
